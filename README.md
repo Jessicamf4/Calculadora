@@ -1,6 +1,4 @@
 # Calculadora
 
+<src img src="img/calculadora.jpg">
 
-<p>
-<src img src="calculadora.jpg">
-</p>
